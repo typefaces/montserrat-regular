@@ -1,7 +1,6 @@
-
 # montserrat-regular
   
-  The [Montserrat](https://typekit.com/fonts/montserrat-pro) regular typeface.
+  The [Montserrat](http://www.google.com/fonts/specimen/Montserrat) regular typeface.
 
 ## Installation
 
