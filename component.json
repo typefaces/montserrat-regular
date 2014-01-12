@@ -1,0 +1,15 @@
+{
+  "name": "montserrat-regular",
+  "repo": "typefaces/montserrat-regular",
+  "description": "Montserrat Regular",
+  "version": "0.0.1",
+  "license": "MIT",
+  "styles": [
+    "index.css"
+  ],
+  "fonts": [
+    "fonts/montserrat-regular.eot",
+    "fonts/montserrat-regular.ttf",
+    "fonts/montserrat-regular.woff"
+  ]
+}
